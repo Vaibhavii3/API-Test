@@ -1,0 +1,62 @@
+[
+    {
+      "name": "JavaScript",
+      "description": "A versatile scripting language used primarily for web development.",
+      "level": "Advanced",
+      "icon": "FaJsSquare"
+    },
+    {
+      "name": "React",
+      "description": "A JavaScript library for building user interfaces or UI components.",
+      "level": "Advanced",
+      "icon": "FaReact"
+    },
+    {
+      "name": "Node.js",
+      "description": "A runtime for executing JavaScript on the server-side.",
+      "level": "Intermediate",
+      "icon": "FaNodeJs"
+    },
+    {
+      "name": "Python",
+      "description": "A high-level programming language known for its readability and wide use in data science.",
+      "level": "Advanced",
+      "icon": "FaPython"
+    },
+    {
+      "name": "HTML",
+      "description": "The standard markup language for creating web pages.",
+      "level": "Beginner",
+      "icon": "FaHtml5"
+    },
+    {
+      "name": "CSS",
+      "description": "A style sheet language used for describing the presentation of a document written in HTML.",
+      "level": "Beginner",
+      "icon": "FaCss3Alt"
+    },
+    {
+      "name": "MongoDB",
+      "description": "A NoSQL database program that uses JSON-like documents with optional schemas.",
+      "level": "Intermediate",
+      "icon": "FaDatabase"
+    },
+    {
+      "name": "Git",
+      "description": "A distributed version control system for tracking changes in source code.",
+      "level": "Intermediate",
+      "icon": "FaGitAlt"
+    },
+    {
+      "name": "Bootstrap",
+      "description": "A front-end framework for developing responsive and mobile-first websites.",
+      "level": "Beginner",
+      "icon": "FaBootstrap"
+    },
+    {
+      "name": "TypeScript",
+      "description": "A strongly typed programming language that builds on JavaScript.",
+      "level": "Intermediate",
+      "icon": "SiTypescript"
+    }
+  ]  
